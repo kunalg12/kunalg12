@@ -25,16 +25,16 @@
 # ![kunaldhongade's github stats](https://github-readme-stats.vercel.app/api?username=kunalg12&theme=omni&show_icons=true)
 
 
-**<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldhongade&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
+**<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalg12&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
 --- 
 
 ### 🚀 Contribution Graph :
 
 
-[![KunalDhongade's github activity graph](https://activity-graph.herokuapp.com/graph?username=kunaldhongade&theme=react-dark)](https://github.com/kunaldhongade/github-readme-activity-graph)
+[![KunalDhongade's github activity graph](https://activity-graph.herokuapp.com/graph?username=kunalg12&theme=react-dark)](https://github.com/kunaldhongade/github-readme-activity-graph)
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaldhongade" alt="kunaldhongade" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalg12" alt="kunaldhongade" /></a> </p>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
