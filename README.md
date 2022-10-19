@@ -1,4 +1,4 @@
-<img width= 100% src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nJTIwcW91dGV8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60">
+<img width= 100% src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80">
 <h1 align="center">Hi 👋, I'm Kunal Gursal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <h3 align="left">Connect with me:</h3>
