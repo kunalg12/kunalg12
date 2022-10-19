@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Gursal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<h3 align="left">Connect with me:</h3>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -18,7 +17,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-
+<h3 align="left">Connect with me:</h3>
 <div align="center">
 <p align="left">
 <a href="https://twitter.com/kunal_g12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalgursal" height="30" width="40" /></a>
