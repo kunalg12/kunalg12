@@ -8,7 +8,7 @@
 <a href="https://twitter.com/kunal_g12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunaldhongade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kunaldhongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunaldhongade" height="30" width="40" /></a>
 <a href="https://fb.com/kunaldhongade99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kunaldhongade99" height="30" width="40" /></a>
-<a href="https://instagram.com/itskunal_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunaldhongade99" height="30" width="40" /></a>
+<a href="https://instagram.com/its_kunal_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunaldhongade99" height="30" width="40" /></a>
  <a href="https://stackoverflow.com/users/18610630/kunal-dhongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kunaldhongade" height="30" width="40" /></a>
 <a href="https://dribbble.com/kunaldhongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kunaldhongade" height="30" width="40" /></a>
  <a href="https://dev.to/kunaldhongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kunaldhongade" height="30" width="40" /></a>
@@ -34,7 +34,7 @@
 [![KunalDhongade's github activity graph](https://activity-graph.herokuapp.com/graph?username=kunalg12&theme=react-dark)](https://github.com/kunaldhongade/github-readme-activity-graph)
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalg12" alt="kunaldhongade" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalg12" alt="kunalgursal" /></a> </p>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
