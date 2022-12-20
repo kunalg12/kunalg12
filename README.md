@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Gursal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<h3>https://www.kunalg.me/</h3>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
