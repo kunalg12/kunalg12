@@ -17,18 +17,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<h3 align="left">Connect with me:</h3>
-<div align="center">
-<p align="left">
-<a href="https://www.kunalg.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/" alt="portfolio" height="30" width="40" /></a>
-<a href="https://twitter.com/kunal_g12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalgursal" height="30" width="40" /></a>
-<a href="linkedin.com/in/kunal-gursal-4159a81b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunalgursal" height="30" width="40" /></a>
-<a href="https://instagram.com/its_kunal_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunalgursal" height="30" width="40" /></a>
-<a href="https://dev.to/kunalg12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kunalgursal" height="30" width="40" /></a>
-<a href="https://hashnode.com/kunalg12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="kunalgursal" height="30" width="40" /></a>
- <a href="https://stackoverflow.com/users/17634279/kunal-gursal"><img src="https://stackoverflow.com/users/flair/17634279.png" width="208" height="58" alt="profile for Kunal Gursal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kunal Gursal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-</p>
 </div>
 
 <br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=kunalgursal.visitor-badge)
