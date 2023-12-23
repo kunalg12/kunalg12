@@ -1,15 +1,11 @@
 <!-- Header Section -->
-<p align="center">
-  <img src="your-profile-image-url" height="150" width="150">
-</p>
-
 # Hi there! 👋 I'm Kunal Gursal
 
-A passionate [Your Profession or Field] from [Your Location]. Welcome to my coding playground! 🚀
+A passionate Full Stack Developer from India. Welcome to my coding playground! 🚀
 
 ## About Me
 
-- 🔭 I’m currently coding away on [Current Project or Job].
+- 🔭 I’m currently coding away on Twitter Clone.
 - 🌱 I’m always learning and exploring new technologies.
 
 ## Tech Stack
@@ -28,7 +24,7 @@ A passionate [Your Profession or Field] from [Your Location]. Welcome to my codi
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](Your LinkedIn Profile Link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-gursal-4159a81b4/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](Your Twitter Profile Link)
 [![Website](https://img.shields.io/badge/Website-%23121011.svg?&style=flat-square&logo=html5&logoColor=white)](Your Personal Website Link)
 
