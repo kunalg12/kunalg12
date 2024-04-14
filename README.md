@@ -1,5 +1,5 @@
  <!-- gif , img , emoji , icon , content , link  https://forthebadge.com/  canva: header -->
- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="70%" /> 
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="50%" /> 
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
@@ -55,6 +55,13 @@
 <!--   <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=kunalg12&count_private=false&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/> -->
 <!--   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+</div>
+<br/>
+<hr>
+<div align="center">
+ 
+![Leetcode Stats](https://leetcard.jacoblin.cool/kunalgursal2923??animation=false?)
+
 </div>
 
 <hr>
