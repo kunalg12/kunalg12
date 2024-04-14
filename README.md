@@ -59,7 +59,15 @@
 
 <hr>
 <!-- polywork -->
-<div align="center">
+<!-- <div align="center">
   <h3> coming soon ...</h3>
     <img src="https://skillicons.dev/icons?i=devto,instagram,discord,mastodon,twitter" /> <br>
-</div>
+</div> -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/kunal_g12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunal_g12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunal-gursal-4159a81b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-gursal-4159a81b4" height="30" width="40" /></a>
+<a href="https://instagram.com/its_kunal_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_kunal_g" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@kunalgursal2923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kunalgursal2923" height="30" width="40" /></a>
+</p>
+
