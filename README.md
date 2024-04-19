@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **I Love Anime**
   
--  🌱 Here you can mail me kunalgursal@outlook.com <img src="heart.gif" alt="hrt" height="20">
+- 📭 Here you can mail me kunalgursal@outlook.com <img src="heart.gif" alt="hrt" height="20">
 
 <br/>
   
