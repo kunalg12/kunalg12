@@ -62,7 +62,7 @@
 <hr>
 <div align="center">
  
-![Leetcode Stats](https://leetcard.jacoblin.cool/kunalgursal2923??animation=false?)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kunalg12??animation=false?)
 
 </div>
 
