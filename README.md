@@ -22,11 +22,11 @@
 <!-- <img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" /> -->
 <img align="right" height="270px" alt="GIF" src="work.gif" />
 
-- 🔭 I’m currently working on Twitter-Clone
+<!-- - 🔭 I’m currently working on Twitter-Clone
 
 - 🌱 I’m currently learning **DSA**
 
-- ⚡ Fun fact **I Love Anime**
+- ⚡ Fun fact **I Love Anime** -->
   
 - 📭 Here you can mail me kunalgursal@outlook.com <img src="heart.gif" alt="hrt" height="20">
 
