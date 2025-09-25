@@ -6,7 +6,7 @@
 <!-- <img src="chill.png"/> -->
 
 <div align="center"> 
-  <a href="mailto:kunalgursal@outlook.com">
+  <a href="mailto:kgkunal267@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/kunal-gursal-4159a81b4/" target="_blank">
